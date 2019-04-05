@@ -1,0 +1,45 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 50px;
+    background-color: rgb(74, 74, 199);
+    position: fixed;
+    right: 0;
+    top: 0;
+    left: 0;
+}
+main{
+    padding: 50px;
+}
+main ul{
+    list-style: none;
+}
+main ul li{
+    padding: 10px;
+}
+
+main #text {
+}
+
+footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 50px;
+    background-color: rgb(74, 74, 199);
+  }
+
+footer input{
+    width: 70%;
+    padding: 10px;
+    margin: 5px;
+}
+
+footer .btn{
+    padding: 10px;
+    margin: 5px;
+}
